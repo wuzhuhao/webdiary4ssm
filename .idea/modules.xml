@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssmProject.iml" filepath="$PROJECT_DIR$/ssmProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_common/ssm_common.iml" filepath="$PROJECT_DIR$/ssm_common/ssm_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_manager/ssm_manager.iml" filepath="$PROJECT_DIR$/ssm_manager/ssm_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_manager/ssm_manager_mapper/ssm_manager_mapper.iml" filepath="$PROJECT_DIR$/ssm_manager/ssm_manager_mapper/ssm_manager_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_manager/ssm_manager_pojo/ssm_manager_pojo.iml" filepath="$PROJECT_DIR$/ssm_manager/ssm_manager_pojo/ssm_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_manager/ssm_manager_service/ssm_manager_service.iml" filepath="$PROJECT_DIR$/ssm_manager/ssm_manager_service/ssm_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_manager/ssm_manager_web/ssm_manager_web.iml" filepath="$PROJECT_DIR$/ssm_manager/ssm_manager_web/ssm_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_redis/ssm_redis.iml" filepath="$PROJECT_DIR$/ssm_redis/ssm_redis.iml" />
+    </modules>
+  </component>
+</project>
